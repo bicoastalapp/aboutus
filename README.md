@@ -16,5 +16,15 @@ Use native mobile design principles to deliver familiar UI / UX to your users. W
 ### [Product-Led Growth](https://bicoastal.agency/our-services/product-led-growth)
 Turn users into customers and achieve business goals with a growth strategy. Gain more customers, grow app engagement, and turn users into app advocates.
 
+## Our Blog
+Check out some of recent blog articles
+### [How to build a web app without writing a line of code](https://bicoastal.agency/blog/how-to-build-a-web-app-without-writing-a-line-of-code)
+Bring your app idea to life with visual programming tools. Drag-and-drop UI, connect to a database, and launch your idea quicker than ever
+### [How to find the best icons for web design & UI design](https://bicoastal.agency/blog/how-to-find-the-best-icons-for-web-design-ui-design)
+Discover free icon libraries to make your website and app UX more user-friendly
+### [How to build responsive web designs for any screen size](https://bicoastal.agency/blog/how-to-build-responsive-web-designs-for-any-screen-size)
+A guide to CSS flex-box. Learn how to create responsive and adaptive layouts for all devices.
+
+
 ## Contact Us
 [Our Website](https://bicoastal.agency/)
