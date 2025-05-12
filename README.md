@@ -1,5 +1,6 @@
 # About Bicoastal Design Agency
-A design studio dedicated to highlighting your passion and craft through user-friendly experiences. We specialize in designing digital products and websites. Based in San Diego, California, delivering visual experiences world-wide.
+Bicoastal is [a San Diego User Experience Agency](https://bicoastal.agency). Specializing in UX design, website design & web development. We work with startups and small businesses to connect brands with the world (wide-web).
+
 
 ## Our Mission
 ### Your vision deserves design that delivers
